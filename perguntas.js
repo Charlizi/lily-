@@ -16,7 +16,11 @@ CriaCartao(
     'Uma função é um bloco de código que executa alguma tarefa'
 )
 
-
+CriaCartao(
+    'Lingua inglesa',
+    'Como se diz oi em Inglês?',
+    'Oi em inglês é HI (RAI)'
+)
 
 
 
