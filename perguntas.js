@@ -1,36 +1,24 @@
-CriaCartao(
-    'Progamação',
+
+criaCartao(
+    'Programação',
     'O que é Python?',
-    'O Python é uma linguagem de progamação'
+    'O Python é uma linguagem de programação'
 )
 
-CriaCartao(
+criaCartao(
     'Geografia',
-    'Qual é a capital da França?',
+    'Qual a capital da França?',
     'A capital da França é Paris'
 )
 
-CriaCartao(
-    'Progamação',
-    'O que é uma função',
+criaCartao(
+    'Programação',
+    'O que é uma função?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
 
-CriaCartao(
+criaCartao(
     'Lingua inglesa',
     'Como se diz oi em Inglês?',
-    'Oi em inglês é HI (RAI)'
+    'Oi em ingles é HI (RAI)'
 )
-
-
-
-
-
-
-
-
-
-
-
-
-
